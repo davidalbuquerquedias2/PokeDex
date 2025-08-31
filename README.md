@@ -1,3 +1,6 @@
+## Não Finalizado!
+
+
 Uma **Pokedex interativa** feita com **HTML, CSS e JS**, perfeita pra listar seus Pokémon favoritos de forma bonita e responsiva. ⚡
 
 ---
