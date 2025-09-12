@@ -68,4 +68,4 @@ pokedex/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/davidalbuquerquedias2/java-script-dio-bootcamp.git
+git clone https://github.com/davidalbuquerquedias2/PokeDex.git
